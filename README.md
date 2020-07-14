@@ -52,3 +52,6 @@
 
 #### Visualizando repositórios remotos
  - `git remote -v`
+
+#### Puxando o repositório da nuvem atualizado
+ - `git pull`
