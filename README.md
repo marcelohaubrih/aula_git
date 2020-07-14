@@ -42,7 +42,7 @@
  - `git remote remove origin`
 
 #### Enviando o repositório completo a nuvem
- - `git push -u origin master`
+ - `git push -u origin master` (Criando a primeira push apos isso use somente - `git push`)
 
 #### Visualizando repositórios remotos
  - `git remote -v`
