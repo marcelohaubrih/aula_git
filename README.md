@@ -35,6 +35,13 @@
 
 #### Unindo as linhas do tempo e adicionando as funcionalidades ao projeto em master
  - `git merge <NOME_DA_LINHA>`
+
+#### Recuperando arquivo deletado (Antes de efetuar o commit é possível usar esse comando)
+ - `git checkout -- <NOME_DO_ARQUIVO>`
+  
+#### Restaurando uma commit ou arquivos deletados depois de efetuar um commit
+ - `git checkout <ID_PONTO_DA_LINHA_TEMPO> -- <NOME_DO_ARQUIVO>`
+
 **OBS:** Entre na linha master e efetue o merge da linha que deseja unir a master
 
 #### Apagando uma Linha do tempo (Branch)
