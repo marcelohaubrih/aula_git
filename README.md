@@ -15,13 +15,19 @@
 #### Realizar commit para enviar os arquivos para a linha do tempo com uma descrição curta
  - `git commit -m "Mensagem curta para adicionar a linha do tempo"`
 
+#### Adicionando arquivos a linha do tempo junto com o commit (git add + git commit)
+ - `git commit -am "Mensagem para commit"`
+
 #### Visualiza os pontos na linha do tempo / commit
  - `git log`
 
 #### Criando uma Linha do tempo separada do projeto master
  - `git branch <NOME_DA_LINHA>` (Adicionar uma descrição curta da funcionalidade ou feature)
+ - 
+#### Criando e entrando em uma nova Branch comando curto (Linha do tempo)
+ - `git checkout -b <NOME_DA_LINHA>`
 
-#### Listando as linhas do tempo (Branch)
+#### Listando/Gerenciando as linhas do tempo (Branch)
  - `git branch`
   
 #### Entrando em uma linha do tempo (Branch)
